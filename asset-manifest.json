@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-first-app/static/css/main.522f3421.chunk.css",
+    "main.js": "/monster-first-app/static/js/main.420adbb2.chunk.js",
+    "main.js.map": "/monster-first-app/static/js/main.420adbb2.chunk.js.map",
+    "runtime~main.js": "/monster-first-app/static/js/runtime~main.f2ded6e4.js",
+    "runtime~main.js.map": "/monster-first-app/static/js/runtime~main.f2ded6e4.js.map",
+    "static/js/2.a4cf3094.chunk.js": "/monster-first-app/static/js/2.a4cf3094.chunk.js",
+    "static/js/2.a4cf3094.chunk.js.map": "/monster-first-app/static/js/2.a4cf3094.chunk.js.map",
+    "index.html": "/monster-first-app/index.html",
+    "precache-manifest.265d670664af2e2199753fa2d91feb08.js": "/monster-first-app/precache-manifest.265d670664af2e2199753fa2d91feb08.js",
+    "service-worker.js": "/monster-first-app/service-worker.js",
+    "static/css/main.522f3421.chunk.css.map": "/monster-first-app/static/css/main.522f3421.chunk.css.map"
+  }
+}
